@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "358534643720",
+    "firebase_url": "https://cityridedriver-679d2.firebaseio.com",
+    "project_id": "cityridedriver-679d2",
+    "storage_bucket": "cityridedriver-679d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358534643720:android:445a554fd8ea8f1c",
+        "android_client_info": {
+          "package_name": "com.deucate.kartik.cityridedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358534643720-sjkfl97aqrjoerv4541d6cr8du23fdfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.kartik.cityridedriver",
+            "certificate_hash": "2884e9ac32414be9d5e809891738e77954ec568e"
+          }
+        },
+        {
+          "client_id": "358534643720-be0n6vme28kddi9h1p6vu34rpug1ngjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATh0cNCMUsSKSOynqIljLse3mIMu3rUk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358534643720-be0n6vme28kddi9h1p6vu34rpug1ngjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358534643720:android:d261251cd9bc4cf1",
+        "android_client_info": {
+          "package_name": "com.deucate.kartik.cityrideclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358534643720-gi90a0ii4stf0nu3h30u3d71n6sgipk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.kartik.cityrideclient",
+            "certificate_hash": "2884e9ac32414be9d5e809891738e77954ec568e"
+          }
+        },
+        {
+          "client_id": "358534643720-be0n6vme28kddi9h1p6vu34rpug1ngjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATh0cNCMUsSKSOynqIljLse3mIMu3rUk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358534643720-be0n6vme28kddi9h1p6vu34rpug1ngjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
